@@ -22,7 +22,7 @@ namespace final2
             FetchWords();
 
             customFont = new PrivateFontCollection();
-            customFont.AddFontFile("C:/Users/ASUS/Documents/Lessons/3.1/Visual Programming/final2/final2/final2/ARLRDBD.TTF"); // Update to the correct font path
+            customFont.AddFontFile("path");
 
             int rows = 6;
             int cols = 5;
